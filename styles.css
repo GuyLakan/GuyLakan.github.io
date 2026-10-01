@@ -105,3 +105,79 @@ h2 {
     white-space: normal;
   }
 }
+
+.paper-title {
+  display: block;
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 0.15rem;
+}
+
+.research-paper p {
+  margin-top: 0.35rem;
+}
+
+.section-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+
+/* Justify all regular text across the site */
+body,
+p,
+li,
+.publication-item,
+.policy-item,
+.research-paper {
+  text-align: justify;
+}
+
+/* Keep headings and titles left-aligned */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.section-title,
+.paper-title {
+  text-align: left;
+}
+
+/* Styling for paper/publication titles */
+.paper-title {
+  display: block;
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 0.15rem;
+}
+
+/* Styling for section titles */
+.section-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Reduce spacing inside research entries */
+.research-paper p {
+  margin-top: 0.35rem;
+}
+
+/* Spacing between publication entries */
+.publication-item {
+  margin-bottom: 1.5rem;
+}
+
+/* Spacing between policy/media entries */
+.policy-item {
+  margin-bottom: 1.5rem;
+}
