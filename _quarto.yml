@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - google389ee105864db78b.html
 
 website:
   navbar:
