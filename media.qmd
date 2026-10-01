@@ -2,96 +2,146 @@
 title: "Policy & Media"
 ---
 
-## POLICY ENGAGEMENT
+<h2 class="section-title">Policy Engagement</h2>
 
 <div class="policy-item">
 
-### Taxation and Institutional Investment in Real Estate, Infrastructure, and Venture Capital
+<strong class="paper-title">
+Taxation and Institutional Investment in Real Estate, Infrastructure, and Venture Capital
+</strong>
 
-**Israel Knesset, Finance Committee | 2026**
+<strong>Israel Knesset, Finance Committee | 2026</strong>
 
+<p>
 Invited to present research during the Knesset's deliberations on a proposed amendment to the tax treatment of pension and provident funds. I discussed how tax uncertainty can distort institutional investors' portfolio allocation, discourage direct investment in real estate and infrastructure, and shift capital toward foreign assets.
+</p>
 
 </div>
 
 
 <div class="policy-item">
 
-### Institutional Investors and the Israeli High-Tech Sector
+<strong class="paper-title">
+Institutional Investors and the Israeli High-Tech Sector
+</strong>
 
-**Israel Knesset, Economic Affairs Committee | 2023**
+<strong>Israel Knesset, Economic Affairs Committee | 2023</strong>
 
+<p>
 Presented research on the evolution of Israeli institutional investors' exposure to the technology sector before the Knesset Subcommittee for the Promotion of the High-Tech Industry. The discussion focused on whether domestic institutional capital could help offset the decline in foreign investment and on the effectiveness of government programs designed to encourage institutional investment in Israeli technology.
+</p>
 
 </div>
 
 
-## SELECTED COMMENTARY
+<h2 class="section-title">Selected Commentary</h2>
 
 <div class="policy-item">
 
-### The Capital Market Authority Asked Institutional Investors to Intervene. Now It Is Investigating Them for Doing So
+<strong class="paper-title">
+The Capital Market Authority Asked Institutional Investors to Intervene. Now It Is Investigating Them for Doing So
+</strong>
 
-**TheMarker | 2026**
+<strong>TheMarker | 2026</strong>
 
+<p>
 On the tension between institutional investor activism and regulatory definitions of control, and the risk that regulatory uncertainty may discourage institutional investors from actively monitoring public companies.
+</p>
 
 </div>
 
 
 <div class="policy-item">
 
-### An Important Reform, but Not Enough: Barriers to Institutional Investment in Infrastructure and Real Estate Remain
+<strong class="paper-title">
+An Important Reform, but Not Enough: Barriers to Institutional Investment in Infrastructure and Real Estate Remain
+</strong>
 
-**Calcalist | 2025 | With Moshe Bareket**
+<strong>Calcalist | 2025 | With Moshe Bareket</strong>
 
+<p>
 On how tax uncertainty can discourage pension and provident funds from investing directly in real estate and infrastructure, even when such investments are economically attractive and widely used by institutional investors abroad.
+</p>
 
 </div>
 
 
 <div class="policy-item">
 
-### Treating the Symptom, Not the Disease: Israel's Dollar Liquidity Risk Is Structural
+<strong class="paper-title">
+Treating the Symptom, Not the Disease: Israel's Dollar Liquidity Risk Is Structural
+</strong>
 
-**Calcalist | 2025**
+<strong>Calcalist | 2025</strong>
 
+<p>
 On the systemic liquidity risks created by the growing foreign exposure of Israeli institutional investors and the use of derivatives, and why the appropriate policy response should address market-wide liquidity rather than impose additional liquidity requirements on individual institutions.
+</p>
 
 </div>
 
 
 <div class="policy-item">
 
-### Where Is the Regulator? Wealth Transfers Between Pension Savers
+<strong class="paper-title">
+Where Is the Regulator? Wealth Transfers Between Pension Savers
+</strong>
 
-**TheMarker | 2025**
+<strong>TheMarker | 2025</strong>
 
+<p>
 On how stale valuations of illiquid assets can create transfers between savers who move across pension products or investment tracks, and why the growth of alternative investments requires a reconsideration of existing valuation practices.
+</p>
 
 </div>
 
 
 <div class="policy-item">
 
-### Can a Pension Scandal Undermine Trust in the Retirement System?
+<strong class="paper-title">
+Can a Pension Scandal Undermine Trust in the Retirement System?
+</strong>
 
-**Calcalist | 2024**
+<strong>Calcalist | 2024</strong>
 
+<p>
 On the broader implications of the Slice pension scandal for public confidence in Israel's long-term savings system and the role of regulation, distribution channels, and financial advice in maintaining trust.
+</p>
 
 </div>
 
 
-## RESEARCH IN THE PUBLIC SPHERE
+<h2 class="section-title">Research in the Public Sphere</h2>
 
 <div class="policy-item">
 
-### Private Equity and Venture Capital Fund Performance: Evidence from a Large Sample of Israeli Limited Partners
+<strong class="paper-title">
+New Management Science Study Finds Party Anonymity Increased Settlement
+</strong>
 
-**Harvard Law School Forum on Corporate Governance | 2023**  
-**With Alon Brav and Yishay Yafeh**
+<strong>INCOJUST | 2026</strong>
 
+<p>
+Coverage of our Management Science paper, <em>Does Privacy Matter? Evidence from a Legal Reform</em>, highlighting evidence that granting anonymity to plaintiffs increased payments in personal-injury claims by approximately 17 percent and strengthened claimants' bargaining position in settlement negotiations.
+</p>
+
+</div>
+
+
+<div class="policy-item">
+
+<strong class="paper-title">
+Private Equity and Venture Capital Fund Performance: Evidence from a Large Sample of Israeli Limited Partners
+</strong>
+
+<strong>Harvard Law School Forum on Corporate Governance | 2023</strong>
+
+<br>
+
+<strong>With Alon Brav and Yishay Yafeh</strong>
+
+<p>
 A discussion of our research on the private-market investments of Israeli institutional investors, including their access to private funds, performance in local versus foreign investments, and the limitations of commonly used commercial private-market databases.
+</p>
 
 </div>

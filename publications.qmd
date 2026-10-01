@@ -1,32 +1,23 @@
-## PUBLICATIONS
+<h2 class="section-title">Publications</h2>
 
 <div class="publication-item">
 
-### The Value of Private Information: Evidence from a Legislative Change in Israeli Courts
-
-**With Liran Einav, Ehud Guttel, Ilan Kramer, and Sarit Weisburd**  
-*Management Science, forthcoming*
+Einav, L., Guttel, E., Kremer, I., Lakan, G., & Weisburd, S. (2026). <em>Does Privacy Matter? Evidence from a Legal Reform</em>. Management Science. <a href="https://doi.org/10.1287/mnsc.2025.00107">https://doi.org/10.1287/mnsc.2025.00107</a>
 
 </div>
 
 
-## PUBLICATIONS IN HEBREW
+<h2 class="section-title">Publications in Hebrew</h2>
 
 <div class="publication-item">
 
-### The Golden Age of Institutional Investors (Book)
-
-**With Moshe Bareket and Itay Kedmi**  
-*Orion, 2025*
+Bareket, M., Kedmi, I., & Lakan, G. (2025). <em>The Golden Age of Institutional Investors</em>. Orion.
 
 </div>
 
 
 <div class="publication-item">
 
-### The Effect of Section 9(2) of the Income Tax Ordinance on Investments in Pension and Provident Funds
-
-**With Moshe Bareket**  
-*Innovations in Management, Vol. 16, 2025, pp. 134–143*
+Lakan, G., & Bareket, M. (2025). <em>The Effect of Section 9(2) of the Income Tax Ordinance on Investments in Pension and Provident Funds</em>. Innovations in Management, 16, 134–143.
 
 </div>
