@@ -1,0 +1,22 @@
+::: {.home-wrap}
+::: {.home-image}
+![](images/profile.png){fig-alt="Guy Lakan" width="100%"}
+:::
+
+::: {.home-text}
+# Guy Lakan
+
+<div class="affiliation-line"><strong>Postdoctoral Scholar, Kellogg School of Management, Northwestern University</strong></div>
+
+<div class="affiliation-line"><strong>Lecturer, Hebrew University of Jerusalem</strong></div>
+
+[Research](research.qmd){.btn .btn-primary}
+[CV](cv.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+## About
+
+::: {.about-copy}
+I completed my PhD in Finance at the Hebrew University of Jerusalem and am currently a Postdoctoral Fellow in the Finance Department at the Kellogg School of Management, Northwestern University. My research focuses on institutional investors and alternative investments, with particular interest in how investors make investment decisions and how regulation shapes capital allocation. I also study household financial decision-making, including how financial literacy and bargaining affect the costs and outcomes of long-term saving.
+:::

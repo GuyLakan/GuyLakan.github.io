@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+A downloadable PDF CV will be available here.
+
+[Download CV](files/Guy_Lakan_CV.pdf){.btn .btn-primary}

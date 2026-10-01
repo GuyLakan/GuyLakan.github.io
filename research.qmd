@@ -1,0 +1,63 @@
+## WORKING PAPERS
+
+<div class="research-paper">
+
+### Limited Partner Investments in Private Funds: Committee Decision-Making and Realized Performance
+
+**With Alon Brav and Yishay Yafeh**  
+*Honourable Mention, ICPM 2025 Research Award Finalist*
+
+Using detailed investment-committee discussions together with long-run cash-flow data, this paper studies how institutional investors evaluate and select private-market funds. We examine the information used in committee deliberations, how decision-making differs across private equity, venture capital, real estate, infrastructure, and private debt, and how these discussions relate to subsequent investment outcomes.
+
+</div>
+
+
+<div class="research-paper">
+
+### Do Minorities Pay More for their Long-Term Savings Products?
+
+*Job Market Paper*
+
+This paper examines differences in the management fees paid by minority and non-minority savers in long-term savings products. Combining reduced-form evidence with a structural model of fee bargaining, the paper studies how differences in bargaining behavior and bargaining costs can generate persistent disparities in the fees paid by otherwise comparable savers.
+
+</div>
+
+
+<div class="research-paper">
+
+### Information Acquisition, Credit Allocation, and Market Access in Debt Markets
+
+**With Itay Kedmi**
+
+This paper studies an investor-side regulation that required institutional investors to acquire independent information before investing in corporate bonds. We show that the mandate changed institutional investors’ participation in public debt markets, increased concentration in their bond positions, and shifted credit toward private lending. The effects are strongest for information-sensitive issuers, with important consequences for firms’ access to public debt markets.
+
+</div>
+
+
+<div class="research-paper">
+
+### Wealth Transfer in Long-Term Saving Products: The Role of Alternative Assets
+
+This paper studies how the valuation of illiquid alternative assets affects transfers between savers in long-term savings products. Because private assets are valued infrequently, their reported values can lag changes in economic conditions. Using the COVID-19 shock, the paper examines how stale valuations can generate wealth transfers between investors who enter, exit, or switch savings products at different points in time.
+
+</div>
+
+
+## WORK IN PROGRESS
+
+<div class="research-paper">
+
+### Trading Across the Capital Structure: Information and Institutional Investor Behavior
+
+I study how information shapes the timing of institutional investors’ trading across equity and corporate bond markets. By tracing portfolio adjustments in both the stocks and bonds of the same firms, I examine whether institutional investors trade first in one market and subsequently adjust their positions in the other, and how these patterns vary with the information environment. The project uses cross-market trading and timing to shed light on how information is incorporated into institutional portfolio decisions across the capital structure.
+
+</div>
+
+
+<div class="research-paper">
+
+### Information Frictions and Matching in Private Capital Markets
+
+I study how information frictions shape the matching process between institutional investors and private fund managers. When a fund is farther from an investor, direct information about the fund and its manager is more limited, making the investment decisions of other institutional investors potentially more informative. I examine whether an institutional investor is more likely to commit to a fund after nearby investors have done so, and whether this dependence becomes stronger as the fund is located farther away. The project sheds light on how learning from other investors affects the formation of LP–GP relationships when information is scarce.
+
+</div>

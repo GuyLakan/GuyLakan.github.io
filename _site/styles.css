@@ -1,0 +1,107 @@
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+/* Keep the homepage comfortably inside the viewport */
+main.content {
+  max-width: 1380px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-wrap {
+  display: grid;
+  grid-template-columns: 400px minmax(0, 1fr);
+  gap: 2.4rem;
+  align-items: center;
+  margin: 1.7rem 0 3.2rem 0;
+}
+
+.home-image {
+  min-width: 0;
+}
+
+.home-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  display: block;
+}
+
+.home-text {
+  min-width: 0;
+}
+
+.home-text h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  line-height: 1.05;
+}
+
+.affiliation-line {
+  font-size: 1.03rem;
+  margin-bottom: 0.45rem;
+  white-space: nowrap;
+}
+
+.about-copy {
+  width: 100%;
+  max-width: 100%;
+}
+
+.about-copy p {
+  margin: 0;
+  text-align: justify;
+  text-align-last: left;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+h2 {
+  margin-top: 2.2rem;
+}
+
+.btn {
+  margin-right: 0.5rem;
+  margin-top: 1.1rem;
+}
+
+/* Prevent horizontal overflow on medium-size screens */
+@media (max-width: 1320px) {
+  main.content {
+    max-width: 1180px;
+  }
+
+  .home-wrap {
+    grid-template-columns: minmax(0, 1.16fr) minmax(460px, 0.9fr);
+    gap: 2rem;
+  }
+
+  .home-image img {
+    max-width: 735px;
+  }
+
+  .home-text h1 {
+    font-size: 2.7rem;
+  }
+
+  .affiliation-line {
+    font-size: 0.96rem;
+  }
+}
+
+@media (max-width: 1050px) {
+  .home-wrap {
+    grid-template-columns: 1fr;
+  }
+
+  .home-image img {
+    max-width: 760px;
+  }
+
+  .affiliation-line {
+    white-space: normal;
+  }
+}

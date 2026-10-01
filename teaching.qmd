@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+<div class="teaching-item">
+
+### The Hebrew University of Jerusalem
+
+- Institutional Investment in Real Estate, Infrastructure, and Private Equity: An Empirical Research Seminar *(MBA)*
+- Institutional Investors and Capital Markets *(MBA)*
+- Real Estate Finance *(MBA)*
+- Options and Contingent Claims *(MBA)*
+- Introduction to Finance *(International BA and MBA)*
+
+</div>
